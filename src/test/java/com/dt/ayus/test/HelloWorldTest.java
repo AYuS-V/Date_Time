@@ -1,4 +1,4 @@
-package com.mt.sample.test;
+package com.mt.ayus.test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
